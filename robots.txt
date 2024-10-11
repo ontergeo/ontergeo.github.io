@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ontergeo.github.io/sitemap.html.gz
+Sitemap: https://ontergeo.github.io/app/sitemap.html.gz
+Sitemap: https://ontergeo.github.io/assets/sitemap.html.gz
+Sitemap: https://ontergeo.github.io/css/sitemap.html.gz
+Sitemap: https://ontergeo.github.io/includes/sitemap.html.gz
+Sitemap: https://ontergeo.github.io/item/sitemap.html.gz
+Sitemap: https://ontergeo.github.io/src/sitemap.html.gz
